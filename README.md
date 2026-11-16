@@ -1,2 +1,3 @@
 # website-status-checker
-Dit script controleert drie websites en toont per website de status, HTTP-code en responstijd. De time-out stel je in met --timeout.
+
+This script checks three websites and displays each website’s availability, HTTP status code, and response time. Use `--timeout` to set the request timeout.
